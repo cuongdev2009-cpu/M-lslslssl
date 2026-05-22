@@ -7,8 +7,8 @@ const ORIGINAL_KEY = "Heartlesss";
 const MY_OWNER = "t.me/truongphuhaokhithaylonquenloi";
 
 // ID hoặc tên bị troll
-const TROLL_IDS   = ["8001225219"];
-const TROLL_NAMES = ["truongphuhaokhithaylonquenloi"];
+const TROLL_IDS   = ["8001225219"," 8339194148"];
+const TROLL_NAMES = ["truongphuhaokhithaylonquenloi"," @nguoilabantool"];
 
 function isTroll(id, data) {
   const idStr = String(id).toLowerCase().trim();
