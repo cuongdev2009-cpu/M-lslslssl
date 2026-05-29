@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const ORIGINAL_API = "https://api-tg-sukunaheartless.onrender.com/api";
-const ORIGINAL_KEY = "Heartlesss";
+const ORIGINAL_KEY = "Heartless";
 const MY_OWNER = "t.me/truongphuhaokhithaylonquenloi";
 
 // ID hoặc tên bị troll
